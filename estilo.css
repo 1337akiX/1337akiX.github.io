@@ -1,0 +1,141 @@
+	@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+	
+	body{
+		background-color: black;
+		background-image: url('guts-neon-iconic-5120x2880-21415.png');
+		background-position: center center; 
+		background-repeat: no-repeat; 
+		background-size: cover; 
+		background-attachment: fixed;
+		}
+	h1 {
+		color: #9e9e9e;
+		font-family: "Iceland", sans-serif;
+		font-size: 35px;
+		text-align:left top;
+		margin: 40px 10px 0px 50px;
+	}
+	header{
+		display:flex;
+		flex-direction:row;
+	}
+	img {
+		margin-left: 30px;
+	}
+	strong{
+		color: purple;
+	}
+	a{
+		color: #6505a2;
+		text-decoration: black;
+	 }
+	a:hover{
+		color: gray;
+		font-size: 23px;
+	}
+	
+	main{
+		color: gray;		
+	}
+	
+	p{
+		color: #9e9e9e;
+		font-family: "Iceland", sans-serif;
+		font-size: 20px;
+		text-align:left-top;
+		margin: 70px 10px 0px 50px;
+	}
+	footer p{
+		position:absolute;
+		bottom: 0;
+		right: 0;
+		padding: 10px;
+		text-align: center;
+		text-align: right-top;
+		font-size: 15px;
+	}
+	#frase-dura{
+		color: gray;
+		font-size: 17px;
+		font-family: "Iceland", sans-serif;
+		left: 7%;
+		position: absolute;
+		top: 50%;
+	}
+	#frase-dura h2 {
+    margin: 0; 
+	}
+	#Coordenades {
+		position:fixed;
+		top: 0px;
+		right: 0px;
+		height: 20%;
+		width: 13%;
+		margin: 40px 94px 0px 0px;
+		box-sizing: border-box;
+	}
+	
+	#campo-comentario{
+		height: 30px;
+		width: 70px;
+	}
+	
+	.menu-CV{
+		position:fixed;
+		margin: 220px 208px 0px 0px;
+		top:0;
+		right:0;
+		color: purple;
+		cursor: pointer;
+		box-sizing: border-box;
+		font-size: 19px;
+		
+	}
+	.menu-Home{
+		position:fixed;
+		margin: 25px 198px 0px 0px;
+		top:0;
+		right:0;
+		color: purple;
+		cursor: pointer;
+		box-sizing: border-box;
+		font-size: 19px;
+	}
+	.menu-Contact{
+		position:fixed;
+		margin: 124px 340px 0px 0px;
+		top:0;
+		right:0;
+		color: purple;
+		cursor: pointer;
+		box-sizing: border-box;
+		font-size: 19px;
+	}
+	.menu-Acerca{
+		position:fixed;
+		margin: 124px 50px 0px 0px;
+		top:0;
+		right:0;
+		color: purple;
+		cursor: pointer;
+		box-sizing: border-box;
+		font-size: 19px;
+	}
+	
+	
+	
+	
+	/* Experimental */
+	
+	.input-error {
+		border: 5px solid red; /* Borde rojo en caso de error */
+		
+	}
+	.input-correct {
+		border: 5px solid green; /* Borde rojo en caso de error */
+		
+	}
+	.win{
+		color:#00ff00;
+	}
+	

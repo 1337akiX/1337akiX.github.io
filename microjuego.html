@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kurapika~MiniJogo</title>
+		
+		<link rel="stylesheet" href="estilo.css" />
+		
+		<script type="text/javascript" src="microJogo.js"> </script>
+	</head>
+	<body>
+		<header>
+		<h1 class="diferenteTitulo">Minijogo</h1>
+			<nav class="navegacion">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="CV.html">CV</a></li>
+					<li><a href="Hobbies.html">Hobbies</a></li>
+					<li><a href="contact.html">Contacto</a></li>
+					<li><a href="microjuego.html">MiniJogo</a></li>
+				</ul>
+			</nav>
+			
+		</header>
+		<main>
+		<form>
+		<h2 class="adivinaNUM">ADIVINA EL NUMERO</h2>
+			<p>Adivina el numero entre <strong>1</strong> - <strong>100</strong></p>
+			
+			<p id = "resultaado"> Prueba suerte :)</p>
+			<p><label for="numero">Tu número: </label><input type="number" name="id" id="numero" /></p>
+			<p><input type="button" id="field" value="Adivina" onclick="ComparaNum()" /></p>
+			
+		</form>
+		</main>
+	</body>
+</html>
