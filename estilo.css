@@ -222,7 +222,8 @@
 	.LaDENETWORK div{
 		position: relative; 
 		bottom: 20px;    
-		left: 20px;  
+		left: 20px; 
+		width: 22%		
 	}
 
 /* TryHackMe Insignia */
