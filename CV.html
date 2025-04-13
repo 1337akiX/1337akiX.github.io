@@ -1,57 +1,68 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>akiX~CV</title>
-		
-		<link rel="stylesheet" href="estilo.css" />
-		
-	</head>
-	<body>
-		<header>
-		<img id="Coordenades" src="yepa.png">
-		<nav>
-			<a class="menu-CV" href="CV.html">CV</a>
-			<a class="menu-Home" href="index.html">Home</a>
-			<a class="menu-Contact" href="contact.html">Contact</a>
-			<a class="menu-Acerca" href="Hobbies.html">Acerca</a>
-		</nav>
+<head>
+  <title>akiX~CV</title>
+  <link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+  <header>
+    <img id="Coordenades" src="yepa.png">
+    <nav>
+      <a class="menu-CV" href="CV.html">CV</a>
+      <a class="menu-Home" href="index.html">Home</a>
+      <a class="menu-Contact" href="login.html">Login</a>
+      <a class="menu-Acerca" href="Acerca.html">Acerca</a>
+    </nav>
+    <h1 class="diferenteTitulo">Mi CV</h1>
+  </header>
 
-		<h1 class="diferenteTitulo">Mi CV</h1>
-		</header>
-		
-		<main>
-		<img src="lain_glitch.gif" alt="GIF animado">
-		<article class= "explicacion-cv">
-			
-			<h2>Cursos cursados</h2>
-				<ul>
-					<li>CFGS de Ciberseguretat (2024-2026)</li>
-					<li>Bachireato Tecnologico (2022-2024)</li>
-				</ul>
-			
-			<h2>Certificaciones</h2>
-				<ul>
-					<li>Cisco Network Cerification</li>
-					<li>Cisco Tu madre en tangita Cerification</li>
-				</ul>
-				
-			<h2>Habilidades Aprendidas</h2>
-				<ul>
-					<li>Sistemas UNIX</li>
-					<li>Analisis de REDES</li>
-					<li>Seguridad activa</li>
-					<li>Lenguajes de Programacion/Marcas</li>
-						<ul>
-							<li>C++</li>
-							<li>BASH</li>
-							<li>HTML</li>
-						</ul>
-					
-				</ul>
-		</article>
-		<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4536303" style='border:none;'></iframe>
-		</main>
-		<footer
-		</footer>
-	</body>
+  <main>
+    <img id="imagenLain" src="lain_glitch.gif" alt="GIF animado">
+
+    <article class="explicacion-cv">
+
+      <h2>Formación Académica</h2>
+      <ul>
+        <li>CFGS de Ciberseguretat en <a href="https://enti.cat/es/">ENTI</a> (2024-2026)</li>
+        <li>Bachillerato Tecnológico & Selectividad (2022-2024)</li>
+        <li>Desarrollo de mi propio videojuego en <a href="https://unity.com/es">Unity</a> con C# (2023)</li>
+        <li>Diferentes Cursos de Ciberseguridad, Programación y Desarrollo de Videojuegos en <a href="https://codelearn.es/">CodeLearn</a> (2023-2024)</li>
+      </ul>
+
+      <h2>Certificaciones</h2>
+      <ul>
+        <li>
+          <div class="badge-container">
+            <div data-iframe-width="150" data-iframe-height="270"
+              data-share-badge-id="01e880e2-b372-4a70-aa9a-d06ed93b7032"
+              data-share-badge-host="https://www.credly.com"></div>
+          </div>
+        </li>
+      </ul>
+
+      <h2>Habilidades</h2>
+      <ul>
+        <li>Sistemas UNIX</li>
+        <li>Análisis de REDES</li>
+        <li>Seguridad activa</li>
+        <li>Lenguajes de Programación / Marcas
+          <ul>
+            <li>C++</li>
+            <li>BASH</li>
+            <li>HTML</li>
+          </ul>
+        </li>
+      </ul>
+
+    </article>
+
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4536303" style="border:none;"></iframe>
+  </main>
+
+  <footer>
+  </footer>
+
+  <!-- Script de Credly al final del body -->
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</body>
 </html>

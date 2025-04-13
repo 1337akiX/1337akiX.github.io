@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>akiX~Contacto</title>
+		
+		<link rel="stylesheet" href="estilo.css" />
+		
+		<script type="text/javascript" src="contact.js"> </script>
+		
+	</head>
+	<body>
+		<header>
+		<img id="Coordenades" src="yepa.png">
+		<nav>
+			<a class="menu-CV" href="CV.html">CV</a>
+			<a class="menu-Home" href="index.html">Home</a>
+			<a class="menu-Contact" href="login.html">Login</a>
+			<a class="menu-Acerca" href="Acerca.html">Acerca</a>
+		</nav>
+		
+		<h1 class="diferenteTitulo">Login</h1>
+			
+		</header>
+		<main>
+		<form id="contact-form">
+			<p><label for="campo-nombre">Nombre: </label><input type="text" name="nombre" id="campo-nombre" /></p>
+			<p><label for="campo-pass">Password: </label><input type="password" name="password" id="campo-pass" /></p>
+			<p><label for="campo-data">Data: </label><input type="date" name="data" id="campo-data" /></p>
+			
+			<p><label for="campo-comentario">Comentaio: </label><textarea  name="comentario" id="campo-comentario"></textarea></p>
+			
+			<p><label for="campo-color">Color: </label><input type="color" name="color" id="campo-color" /></p>
+			<p><input type="checkbox" name="subscribe" id="campo-sub" /></p><label for="campo-sub">Acepto las condiciones de Privacidad</label>
+			<p><input type="submit" id="SUBMINT-Button" value="Envia" onclick="Enviar()" /></p>
+		</form>
+		</main>
+	</body>
+</html>
