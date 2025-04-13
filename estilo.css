@@ -56,17 +56,13 @@
 		font-size: 15px;
 	}
 	/* TryHackMe Insignia */
-	iframe{
+	.tryhack iframe{
 		
 		border: none;
 		width: 22%;
 		position:fixed;
 		bottom: 0;
-		right: 0;
-	
-		
-		
-		
+		right: 0;	
 	}
 	
 	/* POR ID'S especificos */
