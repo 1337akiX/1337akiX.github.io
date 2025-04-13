@@ -220,8 +220,8 @@
 	}
 	/* certi network */
 	.LaDENETWORK div{
-		position: fixed; /* Esto hace que se quede fijo en la pantalla */
-		bottom: 20px;    /* Espacio desde la parte inferior */
+		position: relative; 
+		bottom: 20px;    
 		left: 20px;  
 	}
 
