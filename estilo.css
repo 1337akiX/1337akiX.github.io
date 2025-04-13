@@ -55,15 +55,6 @@
 		text-align: right-top;
 		font-size: 15px;
 	}
-	/* TryHackMe Insignia */
-	.tryhack iframe{
-		
-		border: none;
-		width: 22%;
-		position:fixed;
-		bottom: 0;
-		right: 0;	
-	}
 	
 	/* POR ID'S especificos */
 	#frase-dura{
@@ -228,12 +219,21 @@
 		color: gray;
 	}
 	/* certi network */
-	.LaDENETWORK{
+	.LaDENETWORK div{
 		position: fixed; /* Esto hace que se quede fijo en la pantalla */
 		bottom: 20px;    /* Espacio desde la parte inferior */
 		left: 20px;  
 	}
 
+/* TryHackMe Insignia */
+	.tryhack iframe{
+		
+		border: none;
+		width: 22%;
+		position:fixed;
+		bottom: 0;
+		right: 0;	
+	}
 
 
 
