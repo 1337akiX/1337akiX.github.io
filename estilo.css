@@ -54,6 +54,21 @@
 		text-align: right-top;
 		font-size: 15px;
 	}
+	/* TryHackMe Insignia */
+	iframe{
+		
+		border: none;
+		width: 22%;
+		position:fixed;
+		bottom: 0;
+		right: 0;
+	
+		
+		
+		
+	}
+	
+	/* con id's especificos */
 	#frase-dura{
 		color: gray;
 		font-size: 17px;
@@ -79,6 +94,9 @@
 		height: 30px;
 		width: 70px;
 	}
+	
+	
+	/* Pa JS */
 	
 	.menu-CV{
 		position:fixed;
