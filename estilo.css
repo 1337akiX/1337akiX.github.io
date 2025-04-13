@@ -221,9 +221,8 @@
 	/* certi network */
 	.LaDENETWORK div{
 		position: relative; 
-		bottom: 20px;    
-		left: 20px; 
-		width: 10%		
+		margin: 10px 10px 0px 30px;    
+		width: 10%
 	}
 
 /* TryHackMe Insignia */
