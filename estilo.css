@@ -221,7 +221,8 @@
 	/* certi network */
 	.LaDENETWORK {
 		display: flex;
-		gap: 30px; /* separación entre insignias */
+		margin-top: 40px;
+		gap: 30px; 
 		position: relative;
 		bottom: 20px;
 		left: 20px;
