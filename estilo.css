@@ -221,11 +221,9 @@
 	/* certi network */
 	.LaDENETWORK {
 		display: flex;
-		margin-top: 40px;
+		margin: 40px 0px 20px 30px;
 		gap: 30px; 
 		position: relative;
-		bottom: 20px;
-		left: 20px;
 		z-index: 999;
 }
 
