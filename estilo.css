@@ -220,9 +220,13 @@
 	}
 	/* certi network */
 	.LaDENETWORK div{
-		position: relative; 
+		display: flex; 
 		margin: 10px 10px 0px 30px;    
-		width: 10%
+		gap: 30px; /* Aquí controlas cuánto más al lado está la segunda */
+		position: fixed; /* si quieres que estén fijas en la pantalla */
+		bottom: 20px;
+		left: 20px;
+		z-index: 999;
 	}
 
 /* TryHackMe Insignia */
