@@ -230,12 +230,11 @@
 
 /* TryHackMe Insignia */
 	.tryhack iframe{
-		
-		border: none;
-		width: 22%;
-		position:fixed;
+		display:flex;
+		position: fixed;
 		bottom: 0;
-		right: 0;	
+		right: 0;
+		min-width: 350px;
 	}
 
 
