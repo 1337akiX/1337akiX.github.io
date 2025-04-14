@@ -219,15 +219,14 @@
 		color: gray;
 	}
 	/* certi network */
-	.LaDENETWORK div{
-		display: flex; 
-		margin: 10px 10px 0px 30px;    
-		gap: 30px; /* Aquí controlas cuánto más al lado está la segunda */
-		position: fixed; /* si quieres que estén fijas en la pantalla */
+	.LaDENETWORK {
+		display: flex;
+		gap: 30px; /* separación entre insignias */
+		position: fixed;
 		bottom: 20px;
 		left: 20px;
 		z-index: 999;
-	}
+}
 
 /* TryHackMe Insignia */
 	.tryhack iframe{
