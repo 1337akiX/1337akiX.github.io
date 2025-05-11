@@ -1,3 +1,7 @@
+# > ⚠️ **Advertencia:** Este cambio sobrescribirá archivos existentes. Asegúrate de hacer backup antes de continuar.
+
+
+
 # **Explicacion de los campos del formulario**
 - ## Home
   Apartado donde hay informacion mia
