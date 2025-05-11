@@ -163,7 +163,7 @@
 	
 	.redes{
 		background-color: #111; 
-		margin: 10px 0px 20px 30px;
+		margin: 430px 0px 20px 130px;
 		border: 1px solid #333;
 		max-width: 400px;
 		width: 100%;
@@ -196,7 +196,7 @@
 	}
 	.Bloque-de-elementos{
 		align-items: center;
-		margin-top: 20px;
+		margin: 20px 0px 0px 30px;
 		border: 1px solid #333;
 		padding: 0px 30px 0px 0px;
 		color: white;
