@@ -1,4 +1,4 @@
-# > ⚠️ **Advertencia:** Este cambio sobrescribirá archivos existentes. Asegúrate de hacer backup antes de continuar.
+# > ⚠️ **Advertencia:** LA WEB CONTIENE MUSICA, ES POSSIBLE QUE ALGUNOS NAVEGADORES BLOQUEEN ESTA MUSICA, SI SE QUIERE ESCUCHAR, SE DEBERA DE PERMITIR.
 
 
 
@@ -13,10 +13,6 @@
   Formulario de prueba
 - ## MiniJogo
   Formulario de una actividad de clase el cual pide un id
-
-
-  >[!WARNING]
-  >LA WEB CONTIENE MUSICA, ES POSSIBLE QUE ALGUNOS NAVEGADORES BLOQUEEN ESTA MUSICA, SI SE QUIERE ESCUCHAR, SE DEBERA DE PERMITIR.
 
 
 <!-- EJEMPLO DE COMO HACER UNA TABLA EN MARKDWON-->
