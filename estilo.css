@@ -194,7 +194,7 @@
 		font-size: 12px;
 		justify-content: center;
 	}
-	.explicacion-cv{
+	.Bloque-de-elementos{
 		align-items: center;
 		margin-top: 20px;
 		border: 1px solid #333;
@@ -206,21 +206,21 @@
 		max-width: 630px;
 	}
 	
-	.explicacion-cv h2{
+	.Bloque-de-elementos h2{
 		color: #9e9e9e;
 		font-family: "Iceland", sans-serif;
 		font-size: 26px;
 		text-align:left top;
 		margin:10px 10px 0px 50px;
 	}
-	.explicacion-cv ul{
+	.Bloque-de-elementos ul{
 		margin-top: 5px;
 		list-style-type: none;
 		font-family: 'Iceland', sans-serif;
 		font-size: 15px;
 	}
 	
-	.explicacion-cv ul a:hover{
+	.Bloque-de-elementos ul a:hover{
 		font-size: 17px;
 		color: gray;
 	}
