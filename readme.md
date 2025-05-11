@@ -12,7 +12,7 @@
 
 
   >[!WARNING]
-  >AUN NO ESTA TERMINADO :)
+  >LA WEB CONTIENE MUSICA, ES POSSIBLE QUE ALGUNOS NAVEGADORES BLOQUEEN ESTA MUSICA, SI SE QUIERE ESCUCHAR, SE DEBERA DE PERMITIR.
 
 
 <!-- EJEMPLO DE COMO HACER UNA TABLA EN MARKDWON-->
@@ -20,6 +20,8 @@
 | WAZA | WAZITA | WAZON |
 |------|--------|-------|
 | 1 | 2 | SU |
+
+
 # Checklist
 - [ ] Intentar meter audio
 - [ ] Meter mas contenido
