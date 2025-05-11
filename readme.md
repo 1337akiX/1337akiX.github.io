@@ -20,3 +20,6 @@
 | WAZA | WAZITA | WAZON |
 |------|--------|-------|
 | 1 | 2 | SU |
+- [ ] Intentar meter audio
+- [ ] Meter mas contenido
+- [ ] Mis herramientas
