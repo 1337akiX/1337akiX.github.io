@@ -30,14 +30,18 @@
 		</section>
 		</main>
 		
-		<footer>
-		<p> © akiX 2025 </p>
-		
-		<audio autoplay loop>
+		<audio id="miAudio" autoplay loop>
 		<source src="music.mp3" type="audio/mpeg">
 		</audio>
 		
+		<footer>
+		<p> © akiX 2025 </p>
 		</footer>
+		
+		<script>
+			audio = document.getElementById("miAudio");
+			audio.volume = 0.2;
+		</script>
 		
 	</body>
 </html>
