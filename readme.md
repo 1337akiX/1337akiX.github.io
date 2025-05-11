@@ -1,8 +1,8 @@
-# > ⚠️ **Advertencia:** LA WEB CONTIENE MUSICA, ES POSSIBLE QUE ALGUNOS NAVEGADORES BLOQUEEN ESTA MUSICA, SI SE QUIERE ESCUCHAR, SE DEBERA DE PERMITIR.
+## > ⚠️ **Advertencia:** LA WEB CONTIENE MUSICA, ES POSSIBLE QUE ALGUNOS NAVEGADORES BLOQUEEN ESTA MUSICA, SI SE QUIERE ESCUCHAR, SE DEBERA DE PERMITIR.
 
 
 
-# **Explicacion de los campos del formulario**
+## **Explicacion de los campos del formulario**
 - ## Home
   Apartado donde hay informacion mia
 - ## CV
