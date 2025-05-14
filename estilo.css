@@ -32,8 +32,8 @@
 	 }
 	a:hover{
 		color: #fff;
-		text-shadow: 0 0 5px purple;
-		font-size: 23px;
+		text-shadow: 0 0 6px purple;
+		font-size: 20px;
 	}
 	
 	main{
@@ -67,7 +67,7 @@
 	nav a:hover {
   color: #fff;
   font-size: 21px;
-  text-shadow: 0 0 5px purple;
+  text-shadow: 0 0 6px purple;
 }
 	
 	/* POR ID'S especificos */
@@ -90,7 +90,7 @@
 		display: block;
 	}
 	#imagenLain{
-		width: 40%;
+		width: 50%;
 		margin: 10px 0px 0px 30px;
 		box-sizing: border-box;
 	}
@@ -150,7 +150,7 @@
 	}
 	.redes ul a:hover{
 		color: #fff;
-		text-shadow: 0 0 5px purple;
+		text-shadow: 0 0 6px purple;
 		font-size:14px;
 	}
 	
@@ -163,7 +163,7 @@
 	
 	.redes{
 		background-color: #111; 
-		margin: 430px 0px 20px 130px;
+		margin: 130px 0px 20px 130px;
 		border: 1px solid #333;
 		max-width: 400px;
 		width: 100%;
@@ -225,6 +225,7 @@
 		font-size: 17px;
 		color: gray;
 	}
+	
 	/* certi network */
 	.certis {
 		display: flex;
@@ -243,7 +244,10 @@
 		min-width: 350px;
 	}
 
-
+	.Bloque-de-elementos ul li a{
+		font-size: 17px;
+	
+	}
 
 
 	.input-error {
