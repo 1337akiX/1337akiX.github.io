@@ -155,20 +155,18 @@
 	}
 	
 	
+	.redes {
+	background-color: #111;
+	margin: 30px auto 20px auto; /* centrado horizontal */
+	border: 1px solid #333;
+	max-width: 400px;
+	width: 100%;
+	text-align: center;
+}
+
 	
+	/* Experimental*/
 	
-	/* Experimental */
-	
-	
-	
-	.redes{
-		background-color: #111; 
-		margin: 130px 0px 20px 130px;
-		border: 1px solid #333;
-		max-width: 400px;
-		width: 100%;
-		text-align: left;
-	}
 	.email{
 		color: white;
 		display: flex;
